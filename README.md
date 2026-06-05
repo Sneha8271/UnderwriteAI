@@ -64,4 +64,4 @@ streamlit run app.py
 ---
 
 ## 👩‍💻 Author
-**Sneha Singh** — [GitHub](https://github.com/Sneha8271) | [LinkedIn](https://linkedin.com/in/your-profile)
+**Sneha Singh** — [GitHub](https://github.com/Sneha8271) | [LinkedIn](https://www.linkedin.com/in/sneha-singh-075a622aa/)
